@@ -147,19 +147,7 @@
         <Bp>
           <Number>0</Number>
           <Type>0</Type>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
           <LineNumber>15</LineNumber>
-=======
-          <LineNumber>6</LineNumber>
->>>>>>> Stashed changes
-=======
-          <LineNumber>6</LineNumber>
->>>>>>> Stashed changes
-=======
-          <LineNumber>6</LineNumber>
->>>>>>> Stashed changes
           <EnabledFlag>1</EnabledFlag>
           <Address>0</Address>
           <ByteObject>0</ByteObject>
@@ -175,19 +163,7 @@
         <Bp>
           <Number>1</Number>
           <Type>0</Type>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
           <LineNumber>12</LineNumber>
-=======
-          <LineNumber>15</LineNumber>
->>>>>>> Stashed changes
-=======
-          <LineNumber>15</LineNumber>
->>>>>>> Stashed changes
-=======
-          <LineNumber>15</LineNumber>
->>>>>>> Stashed changes
           <EnabledFlag>1</EnabledFlag>
           <Address>0</Address>
           <ByteObject>0</ByteObject>
@@ -203,19 +179,7 @@
         <Bp>
           <Number>2</Number>
           <Type>0</Type>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
           <LineNumber>27</LineNumber>
-=======
-          <LineNumber>12</LineNumber>
->>>>>>> Stashed changes
-=======
-          <LineNumber>12</LineNumber>
->>>>>>> Stashed changes
-=======
-          <LineNumber>12</LineNumber>
->>>>>>> Stashed changes
           <EnabledFlag>1</EnabledFlag>
           <Address>0</Address>
           <ByteObject>0</ByteObject>
@@ -231,19 +195,7 @@
         <Bp>
           <Number>3</Number>
           <Type>0</Type>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
           <LineNumber>25</LineNumber>
-=======
-          <LineNumber>27</LineNumber>
->>>>>>> Stashed changes
-=======
-          <LineNumber>27</LineNumber>
->>>>>>> Stashed changes
-=======
-          <LineNumber>27</LineNumber>
->>>>>>> Stashed changes
           <EnabledFlag>1</EnabledFlag>
           <Address>0</Address>
           <ByteObject>0</ByteObject>
@@ -259,19 +211,7 @@
         <Bp>
           <Number>4</Number>
           <Type>0</Type>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
           <LineNumber>23</LineNumber>
-=======
-          <LineNumber>25</LineNumber>
->>>>>>> Stashed changes
-=======
-          <LineNumber>25</LineNumber>
->>>>>>> Stashed changes
-=======
-          <LineNumber>25</LineNumber>
->>>>>>> Stashed changes
           <EnabledFlag>1</EnabledFlag>
           <Address>0</Address>
           <ByteObject>0</ByteObject>
@@ -287,37 +227,6 @@
         <Bp>
           <Number>5</Number>
           <Type>0</Type>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-          <LineNumber>23</LineNumber>
-          <EnabledFlag>1</EnabledFlag>
-          <Address>0</Address>
-          <ByteObject>0</ByteObject>
-          <HtxType>0</HtxType>
-          <ManyObjects>0</ManyObjects>
-          <SizeOfObject>0</SizeOfObject>
-          <BreakByAccess>0</BreakByAccess>
-          <BreakIfRCount>0</BreakIfRCount>
-          <Filename>.\main.c</Filename>
-          <ExecCommand></ExecCommand>
-          <Expression></Expression>
-        </Bp>
-        <Bp>
-          <Number>6</Number>
-          <Type>0</Type>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
           <LineNumber>53</LineNumber>
           <EnabledFlag>1</EnabledFlag>
           <Address>1196</Address>
@@ -332,19 +241,7 @@
           <Expression>\\space_invaders\main.c\53</Expression>
         </Bp>
         <Bp>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
           <Number>6</Number>
-=======
-          <Number>7</Number>
->>>>>>> Stashed changes
-=======
-          <Number>7</Number>
->>>>>>> Stashed changes
-=======
-          <Number>7</Number>
->>>>>>> Stashed changes
           <Type>0</Type>
           <LineNumber>45</LineNumber>
           <EnabledFlag>1</EnabledFlag>
@@ -360,19 +257,7 @@
           <Expression>\\space_invaders\main.c\45</Expression>
         </Bp>
         <Bp>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
           <Number>7</Number>
-=======
-          <Number>8</Number>
->>>>>>> Stashed changes
-=======
-          <Number>8</Number>
->>>>>>> Stashed changes
-=======
-          <Number>8</Number>
->>>>>>> Stashed changes
           <Type>0</Type>
           <LineNumber>46</LineNumber>
           <EnabledFlag>1</EnabledFlag>
@@ -388,19 +273,7 @@
           <Expression>\\space_invaders\main.c\46</Expression>
         </Bp>
         <Bp>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
           <Number>8</Number>
-=======
-          <Number>9</Number>
->>>>>>> Stashed changes
-=======
-          <Number>9</Number>
->>>>>>> Stashed changes
-=======
-          <Number>9</Number>
->>>>>>> Stashed changes
           <Type>0</Type>
           <LineNumber>54</LineNumber>
           <EnabledFlag>1</EnabledFlag>
@@ -416,19 +289,7 @@
           <Expression>\\space_invaders\main.c\54</Expression>
         </Bp>
         <Bp>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
           <Number>9</Number>
-=======
-          <Number>10</Number>
->>>>>>> Stashed changes
-=======
-          <Number>10</Number>
->>>>>>> Stashed changes
-=======
-          <Number>10</Number>
->>>>>>> Stashed changes
           <Type>0</Type>
           <LineNumber>15</LineNumber>
           <EnabledFlag>1</EnabledFlag>
