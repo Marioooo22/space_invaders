@@ -408,6 +408,26 @@
               <FileType>1</FileType>
               <FilePath>.\common\bsp.c</FilePath>
             </File>
+            <File>
+              <FileName>SysTick.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\common\SysTick.c</FilePath>
+            </File>
+            <File>
+              <FileName>SysTick.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\common\SysTick.h</FilePath>
+            </File>
+            <File>
+              <FileName>PLL.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\common\PLL.c</FilePath>
+            </File>
+            <File>
+              <FileName>PLL.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\common\PLL.h</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>

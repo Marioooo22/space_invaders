@@ -33,7 +33,7 @@
 // will be configured according to the macros in the rest of this file.
 // If it is defined to be 0, then the system clock configuration is bypassed.
 //
-#define CLOCK_SETUP 1
+#define CLOCK_SETUP 0
 
 //********************************* RCC ***************************************
 //
@@ -66,7 +66,7 @@
 // PWM divider is defined by PWMDIV (see below).  If the value is 0, then
 // the PWM clock divider is not used.
 //
-#define CFG_RCC_USEPWMDIV 1
+#define CFG_RCC_USEPWMDIV 0
 
 //      <o> PWMDIV: PWM Unit Clock Divisor
 //              <0=> 0: SysClk / 2
@@ -158,7 +158,7 @@
 // Set the following value to 1 to turn off the internal oscillator.  This
 // value can be set to 1 if you are not using the internal oscillator.
 //
-#define CFG_RCC_IOSCDIS 1
+#define CFG_RCC_IOSCDIS 0
 
 //      <q> MOSCDIS: Main Oscillator Disable
 //          <i> Check this box to turn off the main oscillator
@@ -183,7 +183,7 @@
 // Set the following value to 1 to use the RCC2 register.  The RCC2 register
 // overrides some of the fields in the RCC register if it is used.
 //
-#define CFG_RCC2_USERCC2 0
+#define CFG_RCC2_USERCC2 1
 
 //      <o> SYSDIV2: System Clock Divisor <2-64>
 //          <i> Specifies the divisor used to generate the system clock from
