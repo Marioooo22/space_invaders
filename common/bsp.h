@@ -5,7 +5,7 @@
 #include "../drivers/buttonD.h"
 #include "PLL.h"
 #include "SysTick.h"
-/*#include "../drivers/adcPot.h"*/
+#include "../drivers/adcPot.h"
 
 
 #define LED_RED   (1U << 1)
@@ -16,6 +16,7 @@
 
 /* system clock*/
 #define SYS_CLOCK_HZ 80000000U
+
 
 void led_init(void);
 void bsp_init(void);

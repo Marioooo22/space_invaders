@@ -453,6 +453,16 @@
               <FileType>5</FileType>
               <FilePath>.\drivers\buttonD.h</FilePath>
             </File>
+            <File>
+              <FileName>adcPot.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\drivers\adcPot.h</FilePath>
+            </File>
+            <File>
+              <FileName>adcPot.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\drivers\adcPot.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>

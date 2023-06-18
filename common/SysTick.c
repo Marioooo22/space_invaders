@@ -41,17 +41,14 @@ void SysTick_Init(void){
 	SysTick->CTRL = 0x00000007;      // enable SysTick with core clock
 }
 // The delay parameter is in units of the 80 MHz core clock. (12.5 ns)
-void SysTick_Wait(unsigned long delay){
-  SysTick->LOAD = delay-1;  // number of counts to wait
-  SysTick->VAL = 0;       // any value written to CURRENT clears
-  while((SysTick->CTRL&0x00010000)==0){ // wait for count flag
-  }
-}
+
 // 10000us equals 10ms
 void SysTick_Wait10ms(unsigned long delay){
-  unsigned long i;
-  for(i=0; i<delay; i++){
-    SysTick_Wait(800000);  // wait 10ms
+	unsigned long i;
+	SysTick->VAL  = 0U;
+	for(i=0; i<delay; i++){
+		while((SysTick->CTRL&0x00010000)==0){ // wait for count flag
+	}
   }
 }
 
